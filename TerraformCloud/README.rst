@@ -61,11 +61,6 @@ Directory
 |     ├── README.rst
 |     └── setup.py
 | ├── jsonfiles
-| │   ├── .gitignore
-| │   ├── NDCDatacenterCORP.JSON
-| │   ├── NDCDatacenterDEVQA.JSON
-| │   ├── NDCDatacenterDMZ.JSON
-| │   ├── NDCDatacenterHSEC.JSON
 | │   └── XXXDatacenterXXXX-Template.JSON
 | ├── tests
 | ├── venv
