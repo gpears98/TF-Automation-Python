@@ -89,7 +89,7 @@ Directory Folders
 
 **jsonfiles**:
 
-``*`` The ``jsonfiles`` folder holds the VLAN information for NDC Datacenter. **Contains sensitive data .gitignore**
+``*`` The ``jsonfiles`` folder holds the VLAN information for Datacenter. **Contains sensitive data .gitignore**
 
 ``XXXDatacenterXXXX-Template.JSON`` (hopefully) gives the skeleton for future datacenter VLAN information
 
