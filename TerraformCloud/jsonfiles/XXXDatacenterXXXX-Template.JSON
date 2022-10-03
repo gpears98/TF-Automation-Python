@@ -1,0 +1,388 @@
+{
+  "block" : "",
+  "subnetname" : [
+    {
+      "subnet": "Rsvd",
+      "subnet_ip" : "10..0.0/19",
+      "vlan": [
+        {
+          "ip_network": "10..0.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..4.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..8.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..12.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..16.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..20.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..24.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..28.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        }
+      ],
+  "subnetname" : [
+    {
+      "subnet": "Rsvd",
+      "subnet_ip" : "10..32.0/19",
+      "vlan": [
+        {
+          "ip_network": "10..32.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..36.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..40.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..44.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..48.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..52.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..56.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..60.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        }
+      ],
+  "subnetname" : [
+    {
+      "subnet": "Rsvd",
+      "subnet_ip" : "10..64.0/19",
+      "vlan": [
+        {
+          "ip_network": "10..64.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..68.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..72.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..76.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..80.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..84.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..88.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..92.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        }
+      ],
+  "subnetname" : [
+    {
+      "subnet": "Rsvd",
+      "subnet_ip" : "10..96.0/19",
+      "vlan": [
+        {
+          "ip_network": "10..96.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..100.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..104.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..108.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..112.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..116.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..120.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..124.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        }
+      ],
+  "subnetname" : [
+    {
+      "subnet": "Rsvd",
+      "subnet_ip" : "10..128.0/19",
+      "vlan": [
+        {
+          "ip_network": "10..128.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..132.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..136.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..140.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..144.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..148.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..152.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..156.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        }
+      ],
+  "subnetname" : [
+    {
+      "subnet": "Rsvd",
+      "subnet_ip" : "10..160.0/19",
+      "vlan": [
+        {
+          "ip_network": "10..160.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..164.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..168.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..172.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..176.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..180.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..184.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..188.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        }
+      ],
+  "subnetname" : [
+    {
+      "subnet": "Rsvd",
+      "subnet_ip" : "10..192.0/19",
+      "vlan": [
+        {
+          "ip_network": "10..192.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..196.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..200.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..204.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..208.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..212.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..216.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        },
+        {
+          "ip_network": "10..220.0/22",
+          "name": "Rsvd",
+          "id": "Rsvd"
+        }
+      ],
+      "subnetname": [
+        {
+          "subnet": "Rsvd",
+          "subnet_ip" : "10..224.0/19",
+          "vlan": [
+            {
+              "ip_network": "10..224.0/22",
+              "name": "Rsvd",
+              "id": "Rsvd"
+            },
+            {
+              "ip_network": "10..228.0/22",
+              "name": "Rsvd",
+              "id": "Rsvd"
+            },
+            {
+              "ip_network": "10..232.0/22",
+              "name": "Rsvd",
+              "id": "Rsvd"
+            },
+            {
+              "ip_network": "10..236.0/22",
+              "name": "Rsvd",
+              "id": "Rsvd"
+            },
+            {
+              "ip_network": "10..240.0/22",
+              "name": "Rsvd",
+              "id": "Rsvd"
+            },
+            {
+              "ip_network": "10..244.0/22",
+              "name": "Rsvd",
+              "id": "Rsvd"
+            },
+            {
+              "ip_network": "10..248.0/22",
+              "name": "Rsvd",
+              "id": "Rsvd"
+            },
+            {
+              "ip_network": "10..252.0/22",
+              "name": "Rsvd",
+              "id": "Rsvd"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+    }
+  ]
+    }
+  ]
+    }
+  ]
+    }
+  ]
+    }
+  ]
+    }
+  ]
+}
+
